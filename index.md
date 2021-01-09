@@ -4,7 +4,7 @@
 
 My name is **Joshue Aguirre** and in this site I will over some of my interests and goals for this course. 
 
-![pic](https://github.com/Yoshisham/Images/main/IMG_1231.jpg)
+![pic](https://github.com/Yoshisham/Images/blob/main/IMG_1231.jpg)
 
 ## Hobbies
 
