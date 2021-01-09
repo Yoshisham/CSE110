@@ -33,4 +33,4 @@ Here are some goals I have for CSE 110:
 To finalize this page I would just like to share my favourite quote from a man a look up to, Fred Rogers:
 > Everyone longs to be loved. And the greatest thing we can do is to let people know that they are loved and capable of loving.
 
-Also here is one of my [favourite videos](https://youtu.be/uH0hikcwjIA). ~~Trust me it is not a rickroll~~
+Also here is one of my [favourite videos](https://youtu.be/uH0hikcwjIA). ~~Trust me it is not a rickroll.~~
