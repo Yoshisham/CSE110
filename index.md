@@ -5,7 +5,7 @@
 My name is **Joshue Aguirre** and in this site I will over some of my interests and goals for this course. 
 
 Here is a picture of my family and I during christmas 2018. I am the one with a beard,glasses, and collared shirt in the back.
-![pic](https://github.com/Yoshisham/CSE110-Lab1/blob/gh-pages/IMG_1231.jpg)
+![pic](IMG_1231.png)
 
 ## Hobbies
 
