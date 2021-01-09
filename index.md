@@ -4,6 +4,8 @@
 
 My name is **Joshue Aguirre** and in this site I will over some of my interests and goals for this course. 
 
+![pic](https://github.com/Yoshisham/Images/main/IMG_1231.jpg)
+
 ## Hobbies
 
 Some of my hobbies include:
@@ -25,3 +27,4 @@ Here are some goals I have for CSE 110:
 - [ ] Deliver a final project
 - [ ] Pass the class
 
+IMG_1231.jpg
